@@ -1,3 +1,5 @@
 print ("Hello world")
 print ("I am PP POng")
-print ("I am from Thailand")
+print ("I am from Nakhonphanom Thailand")
+print ("I am a lecturer")
+print ("My office is MIT-NNakhonphanom University")
